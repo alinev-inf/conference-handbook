@@ -1,5 +1,6 @@
 # Conference Chair Duties for EACL
 
+- [General Chair](general.md)
 - [Local Organization Chair](local.md)
 - [Best Paper Award Chair](best_paper.md)
 - [Publication Chair](publication.md)
